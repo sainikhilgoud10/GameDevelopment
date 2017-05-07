@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\libgdx_games\rain_drops_game\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d406ef850aa6175c3b64ad8afa369c66afe1d28d">
+        <dex dex="F:\libgdx_games\rain_drops_game\android\build\intermediates\pre-dexed\debug\core-1.0-dc13c6d1ae1e37c74cbe65bea7873e391267ea4b.jar" />
+    </item>
+
+</items>
